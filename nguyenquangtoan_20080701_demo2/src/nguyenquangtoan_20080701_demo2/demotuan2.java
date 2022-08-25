@@ -38,7 +38,7 @@ public class demotuan2 extends JFrame implements ActionListener{
 	private JTextField jtb;
 	private JTextField jtKQ;
 	public demotuan2() {
-		setTitle("Cộng-Trừ-Nhân-Chia");
+		setTitle("Cộng-Trừ-Nhân-Chia1");
 		setSize(450,450);
 		setResizable(false);
 		setLocationRelativeTo(null);
