@@ -75,7 +75,7 @@ public class demotuan2 extends JFrame implements ActionListener{
 		jPanelCT.setLayout(null);
 		add(jPanelCT, BorderLayout.CENTER);
 		JLabel lba = new JLabel("Nhập a:");
-		JLabel lbb = new JLabel("Nhập b:");
+		JLabel lbb = new JLabel("Nhập B:");
 		JLabel lbKQ = new JLabel("Kết Quả:");
 		jPanelCT.setBorder(BorderFactory.createTitledBorder("Tính toán"));
 		lba.setBounds(40,30,100,20);
