@@ -47,7 +47,7 @@ public class demotuan2 extends JFrame implements ActionListener{
 	}
 	public void Gui(){
 		JPanel jPanelN = new JPanel();
-		JLabel jlb = new JLabel("Cộng Trừ Nhân Chia111");
+		JLabel jlb = new JLabel("Cộng Trừ Nhân Chia");
 		jlb.setForeground(Color.blue);
 		jlb.setFont(new Font("Arial",Font.BOLD,20));
 		add(jPanelN, BorderLayout.NORTH);
